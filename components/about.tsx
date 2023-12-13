@@ -26,14 +26,14 @@ export default function About() {
         transitioned to <span className="font-medium">Customer Service</span> at
         a<span className="font-medium">Cadillac Dealership</span> in 2007. In
         2010, I took the{" "}
-        <span className="font-medium">entrepreneurial leap</span>
-        and established my own successful{" "}
+        <span className="font-medium">entrepreneurial leap</span> and
+        established my own successful{" "}
         <span className="font-medium">mechanic shop</span>, which grew to become
         the <span className="font-medium"></span>largest in the region,
         specializing in the{" "}
         <span className="font-medium">North American GM autogroup</span>. During
         this time, I honed my leadership skills, serving as a
-        <span className="font-medium">CEO, Team Lead</span>, and effectively
+        <span className="font-medium"> CEO, Team Lead</span>, and effectively
         managing operations.
       </p>
       <p className="mb-3">
@@ -51,7 +51,7 @@ export default function About() {
         <span className="font-medium">hiking</span> and{" "}
         <span className="font-medium">fishing</span>, and I also appreciate
         spending time
-        <span className="font-medium">watching movies</span>. My favorite part
+        <span className="font-medium"> watching movies</span>. My favorite part
         of programming is the{" "}
         <span className="font-medium">problem-solving aspect</span>. I love the
         feeling of finally figuring out a solution to a problem. My core stack

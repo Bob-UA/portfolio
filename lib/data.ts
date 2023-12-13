@@ -4,7 +4,11 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import powerpulse from "@/public/powerpulse.png";
 import cinemania from "@/public/cinemania.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import mimino from "@/public/mimino.png";
+import carhub from "@/public/carhub.png";
+import promptopia from "@/public/promptopia.png";
+import webstudio from "@/public/webstudio.png";
+
 
 export const links = [
   {
@@ -62,46 +66,81 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "CarHub",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "Next.js application with a responsive design for viewing cars, featuring rental pricing, and detailed characteristics.",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "React hooks",
+      "Tailwind CSS",
+      "post css",
+      "autoprefixer",
+    ],
+    imageUrl: carhub,
+    link: "https://auto-dealer-our2.vercel.app/",
+  },
+  {
+    title: "Promptopia",
+    description:
+      "Next.js full-stack application, responsive design, Google authorization for seamless prompt sharing between users.",
+    tags: [
+      "Next.js",
+      "React hooks",
+      "Tailwind CSS",
+      "mongodb",
+      "mongoose",
+      "oauth",
+    ],
+    imageUrl: promptopia,
+    link: "https://promptopia-blush-gamma.vercel.app/",
+  },
+  {
+    title: "Power Pulse",
+    description:
+      "React fitness app with authorization, animated exercise demos, activity diary, and daily calorie tracking.",
+    tags: ["React", "Redux", "Node", "Express", "MongoDB"],
     imageUrl: powerpulse,
+    link: "https://bob-ua.github.io/pj-react-777/",
   },
   {
-    title: "rmtDev",
+    title: "Cinemania",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "As a Team Lead and developer, I collaborated with others to build and deploy a JavaScript trailer hub. It incorporates responsive design and seamlessly interacts with APIs using Axios.",
+    tags: ["JavaScript", "HTML", "CSS", "Parcel"],
     imageUrl: cinemania,
+    link: "https://bob-ua.github.io/dream_team_Cinemania/",
   },
   {
-    title: "Word Analytics",
+    title: "MIMINO",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "In my role as a Team Lead and developer, I worked with a team to create and launch a responsive four-page hotel complex website.",
+    tags: ["JavaScript", "HTML", "CSS", "Parcel"],
+    imageUrl: mimino,
+    link: "https://bob-ua.github.io/dream_team/",
+  },
+  {
+    title: "Web Studio",
+    description:
+      "In my role as a Team Lead and developer, I worked with a team to create and launch a responsive four-page hotel complex website.",
+    tags: ["JavaScript", "HTML", "CSS", "Parcel"],
+    imageUrl: webstudio,
+    link: "https://bob-ua.github.io/goit-markup-hw-07/",
   },
 ] as const;
 
 export const skillsData = [
   "HTML",
-  "CSS",
+ 	"CSS",
   "JavaScript",
   "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+ 	"React.js",
+ 	"Next.js",
+ 	"Node.js",
+ 	"Tailwind CSS",
+ 	"Redux",
+ 	"Express",
+ 	"MongoDB",
+ 	"Mongoose",
+
 ] as const;
