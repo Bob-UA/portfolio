@@ -1,5 +1,5 @@
 import Header from "@/components/header";
-import "@/globals.css";
+import "./globals.css";
 import { Inter } from "next/font/google";
 import ActiveSectionContextProvider from "@/context/active-section-context";
 import Footer from "@/components/footer";
@@ -10,9 +10,8 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Oleksandr's | Personal Portfolio",
-  description:
-    "Oleksandr is a proficient full-stack developer with expertise in HTML, CSS, JavaScript, React.JS, Next.JS, and Node.JS.",
+  title: "Ricardo | Personal Portfolio",
+  description: "Ricardo is a full-stack developer with 8 years of experience.",
 };
 
 export default function RootLayout({
