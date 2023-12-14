@@ -24,7 +24,7 @@ export default function About() {
         <span className="font-medium">diverse career journey</span>. Starting as
         a <span className="font-medium">self-employed individual</span>, I
         transitioned to <span className="font-medium">Customer Service</span> at
-        a<span className="font-medium">Cadillac Dealership</span> in 2007. In
+        a<span className="font-medium"> Cadillac Dealership</span> in 2007. In
         2010, I took the{" "}
         <span className="font-medium">entrepreneurial leap</span> and
         established my own successful{" "}
