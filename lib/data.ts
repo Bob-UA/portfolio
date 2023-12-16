@@ -44,7 +44,6 @@ export const experiencesData = [
     description:
       "Just in 6 months, I grew from a Service Advisor assistant to a full-time Service Advisor position. I showed highly quality customer service and received many good feedbacks from customers and coworkers alike.",
     icon: React.createElement(CgWorkAlt),
-    // icon: React.createElement(LuGraduationCap),
     date: "2007 - 2010",
   },
   {
@@ -60,7 +59,6 @@ export const experiencesData = [
     location: "Kyiv, Ukraine",
     description:
       "Launched and managed an 8000 sq ft car service workshop, leading a team of 15 professionals. Improved efficiency, advertising, and staff training, equipped the service with special tools, and optimized workflow. Achieved a 4.9/5 Google rating, establishing the largest aftermarket service station in Ukraine specializing in GM and Chrysler cars.",
-    // icon: React.createElement(FaReact),
     icon: React.createElement(CgWorkAlt),
     date: "2017 - 2022",
   },
@@ -76,7 +74,7 @@ export const experiencesData = [
     title: "Full Stack Developer, Freelancer",
     location: "Victoria, BC",
     description:
-      "Launched and managed an 8000 sq ft car service workshop, leading a team of 15 professionals. Improved efficiency, advertising, and staff training, equipped the service with special tools, and optimized workflow. Achieved a 4.9/5 Google rating, establishing the largest aftermarket service station in Ukraine specializing in GM and Chrysler cars.",
+      "After completing Full Stack Development courses, I've been actively gaining experience through freelancing, with a primary focus on React (Next.js).",
     icon: React.createElement(FaReact),
     date: "2023 - Now",
   },
