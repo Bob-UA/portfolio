@@ -39,28 +39,46 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Service Advisor",
+    location: "Kyiv, Ukraine",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Just in 6 months, I grew from a Service Advisor assistant to a full-time Service Advisor position. I showed highly quality customer service and received many good feedbacks from customers and coworkers alike.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    // icon: React.createElement(LuGraduationCap),
+    date: "2007 - 2010",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "CEO, Team Lead",
+    location: "Kyiv, Ukraine",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Founded and managed a 2200 sq ft business specializing in GM and Chrysler vehicle repair. Led a team of 5, overseeing sourcing, logistics, diagnostic software, and marketing to provide top-notch service for American cars in Kyiv.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2010 - 2017",
+  },
+  {
+    title: "CEO, Team Lead",
+    location: "Kyiv, Ukraine",
+    description:
+      "Launched and managed an 8000 sq ft car service workshop, leading a team of 15 professionals. Improved efficiency, advertising, and staff training, equipped the service with special tools, and optimized workflow. Achieved a 4.9/5 Google rating, establishing the largest aftermarket service station in Ukraine specializing in GM and Chrysler cars.",
+    // icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
+    date: "2017 - 2022",
+  },
+  {
+    title: "Full Stack Developer Training Program",
+    location: "Canada (attended remotely from Ukraine)",
+    description:
+      "Over the span of my 11-month IT Academy program, I honed my skills in JavaScript, React.js, Node.js, HTML, and CSS, earning certification as a Full Stack Developer. This expertise equips me to craft applications featuring dynamic responsive designs and robust backend capabilities.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2022 - 2023",
+  },
+  {
+    title: "Full Stack Developer, Freelancer",
+    location: "Victoria, BC",
+    description:
+      "Launched and managed an 8000 sq ft car service workshop, leading a team of 15 professionals. Improved efficiency, advertising, and staff training, equipped the service with special tools, and optimized workflow. Achieved a 4.9/5 Google rating, establishing the largest aftermarket service station in Ukraine specializing in GM and Chrysler cars.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2023 - Now",
   },
 ] as const;
 
