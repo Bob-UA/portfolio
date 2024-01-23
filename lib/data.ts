@@ -50,17 +50,9 @@ export const experiencesData = [
     title: "CEO, Team Lead",
     location: "Kyiv, Ukraine",
     description:
-      "Founded and managed a 2200 sq ft business specializing in GM and Chrysler vehicle repair. Led a team of 5, overseeing sourcing, logistics, diagnostic software, and marketing to provide top-notch service for American cars in Kyiv.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2010 - 2017",
-  },
-  {
-    title: "CEO, Team Lead",
-    location: "Kyiv, Ukraine",
-    description:
       "Launched and managed an 8000 sq ft car service workshop, leading a team of 15 professionals. Improved efficiency, advertising, and staff training, equipped the service with special tools, and optimized workflow. Achieved a 4.9/5 Google rating, establishing the largest aftermarket service station in Ukraine specializing in GM and Chrysler cars.",
     icon: React.createElement(CgWorkAlt),
-    date: "2017 - 2022",
+    date: "2010 - 2022",
   },
   {
     title: "Full Stack Developer Training Program",
