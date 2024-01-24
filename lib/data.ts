@@ -144,11 +144,13 @@ export const skillsData = [
   "TypeScript",
  	"React.js",
  	"Next.js",
- 	"Node.js",
+  "Node.js",
+  "Python",
  	"Tailwind CSS",
  	"Redux",
  	"Express",
- 	"MongoDB",
+  "MongoDB",
+  "Docker",
  	"Mongoose",
 
 ] as const;
