@@ -66,7 +66,7 @@ export default function Intro() {
         Hello, I'm <span className="font-bold">Oleksandr</span>, a seasoned Full
         Stack Developer with a background as a Team Lead in a different field. I
         specialize in <span className="font-bold">Full-Stack Development</span>,
-        particularly in <span className="underline">React (Next.js)</span>. As a{" "}
+        particularly in <span className="underline">React and Next.js</span>. As a{" "}
         <span className="font-bold">
           CEO, Team Lead, and Full-Stack Developer
         </span>
