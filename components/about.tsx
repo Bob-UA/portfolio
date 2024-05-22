@@ -65,7 +65,7 @@ export default function About() {
         <span className="font-medium">TypeScript</span> and{" "}
         <span className="font-medium">Tailwind CSS</span>. I am always eager to
         learn new technologies. Currently, I am seeking a full-time position as
-        a <span className="font-medium">software developer</span>.
+        a <span className="font-medium">full-stack developer</span>.
       </p>
     </motion.section>
   );
