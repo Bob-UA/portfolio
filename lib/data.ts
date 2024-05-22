@@ -70,6 +70,14 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2023 - Now",
   },
+  {
+    title: "Volunteer Web Developer, Help Ukraine Vancouver Island",
+    location: "Victoria, BC",
+    description:
+      "As a volunteer Web Developer at the charity organization Help Ukraine Vancouver Island, 🌍 I am responsible for maintaining our website 🖥️ and ensuring that all information and content are up-to-date. My role involves implementing user-friendly design updates, enhancing site functionality, and optimizing performance to ensure visitors can access the latest news, resources, and support opportunities efficiently. Volunteering my technical skills allows me to actively contribute to our mission of aiding Ukrainian communities. 💙💛",
+    icon: React.createElement(FaReact),
+    date: "2024 - Now",
+  },
 ] as const;
 
 export const projectsData = [
